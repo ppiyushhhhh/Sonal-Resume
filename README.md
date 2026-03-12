@@ -1,1 +1,107 @@
-# Sonal-Resume
+\documentclass[a4paper,10pt]{article}
+
+\usepackage[left=0.5in,right=0.5in,top=0.5in,bottom=0.5in]{geometry}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\usepackage{parskip}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+
+\setlist[itemize]{noitemsep, topsep=2pt, leftmargin=*, itemsep=1pt}
+
+\titlespacing*{\section}{0pt}{4pt}{3pt}
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+
+\begin{document}
+
+\begin{center}
+{\Large \textbf{SONAL SATPUTE}}\\
+Mumbai, Maharashtra -- 400102 \\
++91 9594810229 \quad | \quad \href{mailto:sonalsatpute10@gmail.com}{sonalsatpute10@gmail.com}
+\end{center}
+
+\vspace{-8pt}
+
+\section*{Career Objective}
+
+CA Intermediate qualified candidate seeking an \textbf{Articleship opportunity} in a reputed Chartered Accountant firm to gain practical exposure in \textbf{Accounting, Auditing, Taxation, and Compliance} while applying theoretical knowledge and developing strong professional skills.
+
+\section*{Education}
+
+\begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}} r}
+\textbf{CA Intermediate -- Group 2} & 2026 \\
+Institute of Chartered Accountants of India (ICAI) & 66.67\% \\
+
+\textbf{CA Intermediate -- Group 1} & 2024 \\
+Institute of Chartered Accountants of India (ICAI) & 50\% \\
+
+\textbf{Bachelor of Commerce (B.Com)} & 2021 \\
+University of Mumbai & B Grade \\
+
+\textbf{CA CPT} & 2018 \\
+Institute of Chartered Accountants of India (ICAI) & 50\% \\
+
+\textbf{HSC -- Maharashtra State Board} & 2018 \\
+76.15\% & \\
+
+\textbf{SSC -- Maharashtra State Board} & 2016 \\
+88.60\% & \\
+\end{tabular*}
+
+\section*{Professional Experience}
+
+\begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}} r}
+\textbf{Doshi Praveen \& Co., Mumbai} & \textbf{Jan 2023 -- Jan 2024} \\
+\end{tabular*}
+
+\textit{Account Assistant}
+
+\begin{itemize}
+\item Reviewed invoices to ensure accuracy and completeness of accounting records.
+\item Assisted in \textbf{GST return preparation and filing}.
+\item Supported \textbf{tax return preparation} by organizing client information and documents.
+\item Maintained accounting and taxation documentation for compliance purposes.
+\end{itemize}
+
+\begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}} r}
+\textbf{Run Time Solutions Private Limited} & \textbf{Oct 2025 -- Mar 2026} \\
+\end{tabular*}
+
+\textit{Accounts Assistant}
+
+\begin{itemize}
+\item Assisted in maintaining \textbf{accounting records and financial documentation}.
+\item Supported \textbf{GST preparation and TDS related work}.
+\item Maintained proper records for financial and statutory compliance.
+\end{itemize}
+
+\section*{Technical Skills}
+
+\begin{itemize}
+\item \textbf{Accounting Software:} Tally, Tally Prime (Edit Log)
+\item \textbf{MS Excel:} Pivot Tables, VLOOKUP, HLOOKUP, Excel Shortcuts
+\item \textbf{Taxation:} Basic knowledge of Income Tax and TDS
+\item \textbf{Audit Support:} Vouching and verification of transactions with supporting documents
+\end{itemize}
+
+\section*{Languages}
+
+English, Marathi, Hindi
+
+\section*{Hobbies \& Interests}
+
+Singing, Cooking, Dancing
+
+\section*{Declaration}
+
+I hereby declare that the above information is true and correct to the best of my knowledge and belief.
+
+Date: \hrulefill \hfill Place: Mumbai
+
+\vspace{6pt}
+
+\textbf{Sonal Satpute}
+
+\end{document}
